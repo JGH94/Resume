@@ -3,9 +3,10 @@
 ### 정근화
 
 - BLOG : https://we-co.tistory.com/
-- E-MAIL : jgh910000@naver.com
 - GitHub : https://github.com/jgh94
-- 
+- E-MAIL : jgh910000@naver.com
+
+
 ## 목차
 
 * [경력](#경력)
