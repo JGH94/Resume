@@ -28,6 +28,12 @@
   * C#
     - MotionE
     - JPharm
+* [기타](#기타)
+    - Kaggle 분석 ( 타이타닉 )
+    - tensorflow Object detection api model
+    - YOLO 논문
+    - Pands, Matplotlib
+    - 프로그래머스, 백준
 <br>
 
 ## 경력
@@ -42,6 +48,7 @@
 
 
 # 프로젝트
+## 개인-프로젝트
 ## 개인 프로젝트 및 작업 ( Python, C# )
 ### [ SSA에서 제공하는 이름 데이터 분석 ](https://github.com/JGH94/python_BabyName)
  https://www.ssa.gov/ 에서 제공하는 데이터를 분석하여 그 시기에 유행했던 이름, 추세를 시각화하는 작업
@@ -103,9 +110,11 @@
 </div>
 <br>
 
-## 회사 프로젝트
-[ MotionE ](https://triupcorp.com/service#development)
- 병원 차트 프로그램으로 EMR, CRM 등 뷰티를 중점인 병원을 타겟인 프로그램
+## 회사 프로젝트 
+<div>
+<img width="10%" height = "40dp" src="https://user-images.githubusercontent.com/41178868/207754942-7bc482a5-792d-4972-aea2-90ef9f593dbc.png"> 
+</div> 
+병원 차트 프로그램으로 EMR, CRM 등 뷰티를 중점인 병원을 타겟인 프로그램
 <br>
 * 기간 : 2022.04 ~ 개발 중
 * 소속 : 트라이업
@@ -118,3 +127,5 @@
 <img width="35%" height = "220dp" src="https://user-images.githubusercontent.com/41178868/207752354-62f9162b-2f6c-49f7-863d-b31d8e91870b.png">  
 </div>
 <br>
+
+## 기타
