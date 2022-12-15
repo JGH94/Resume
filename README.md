@@ -43,7 +43,7 @@
 
 # 프로젝트
 ## 개인 프로젝트 및 작업 ( Python, C# )
-[ SSA에서 제공하는 이름 데이터 분석 ](https://github.com/JGH94/python_BabyName)
+### [ SSA에서 제공하는 이름 데이터 분석 ](https://github.com/JGH94/python_BabyName)
  https://www.ssa.gov/ 에서 제공하는 데이터를 분석하여 그 시기에 유행했던 이름, 추세를 시각화하는 작업
 <br>
 * 기간 : 2022.12 ~ 2022.12
