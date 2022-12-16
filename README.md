@@ -128,6 +128,24 @@
 </div>
 <br>
 
+
+<div>  
+<img width="10%" height = "40dp" src="https://user-images.githubusercontent.com/41178868/208035086-a74754bd-614a-4b6e-9f25-542683dd99ff.png"> 
+</div> 
+ 약국을 타겟으로 개발된 프로그램, 라벨 프린터, 약가 등 약품에 대한 개발 진행
+<br>
+
+* 기간 : 2019.01 ~ 2021.05
+* 소속 : 비트컴퓨터
+* 역할 : C# 응용 SW 프로그램 개발, 타 업체와 개발 진행( KT, Pildoc )
+* 사용기술 : C#, Json, MsSQL
+
+<div>       
+<img width="40%" height = "240dp" src="https://user-images.githubusercontent.com/41178868/208034877-cc6d5523-c31f-4c54-983b-8523175db6b5.png">
+</div>
+<br>
+
+
 ## 기타
 * [Kaggle 분석 ( 타이타닉 )](https://github.com/JGH94/Kaggle_Titanic)
 * [tensorflow Object detection api model](https://github.com/JGH94/Tensorflow_Detection_Model_ZOO)
