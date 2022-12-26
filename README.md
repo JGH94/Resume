@@ -150,8 +150,8 @@
 * [Kaggle 분석 ( 타이타닉 )](https://github.com/JGH94/Kaggle_Titanic)
 * [tensorflow Object detection api model](https://github.com/JGH94/Tensorflow_Detection_Model_ZOO)
 * [YOLO 논문](https://we-co.tistory.com/category/YOLO)
-* [Pands](https://github.com/JGH94/Python_Pandas),   [Matplotlib](https://github.com/JGH94/python_MatplotLib)
-* [프로그래머스](https://github.com/JGH94/programers_code),   [백준](https://github.com/JGH94/BaekJoon_Code)
+* [Pands](https://github.com/JGH94/Python_Pandas),  [Matplotlib](https://github.com/JGH94/python_MatplotLib)
+* [프로그래머스](https://github.com/JGH94/programers_code),  [백준](https://github.com/JGH94/BaekJoon_Code)
 
 
 [ 자세한 이력서 ] (http://naver.me/5i0T70Xv)
