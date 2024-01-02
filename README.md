@@ -128,7 +128,7 @@
 * 사용기술 : Python, Ajax, Elasticsearch
 
 <div>        
- <img width="1309" alt="image" src="https://user-images.githubusercontent.com/41178868/208034877-cc6d5523-c31f-4c54-983b-8523175db6b5.png"> 
+ <img width="35%" height = "220dp" alt="image" src="https://github.com/JGH94/Resume/assets/41178868/31efd54c-a08e-465b-a1e5-c8cbfa82b1ed"> 
 </div>
 <br>
 
