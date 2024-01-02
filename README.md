@@ -11,14 +11,16 @@
 ## 목차
 
 * [경력](#경력)
-  * 트라이업 - 2022.04.11 ~ -
+  * 한국정보기술단 - 2023.05 ~ [ 현재 ]
+  * 트라이업 - 2022.04.11 ~ - 2023.04.11
   * 비트컴퓨터 - 2019.01.02 ~ 2021.05.31
    
 * [개인 프로젝트 및 작업](#개인-프로젝트)
   * Python
     - SSA에서 제공하는 이름 데이터 분석
     - Bit.ly와 USA.gov의 사용자 정보 분석
-    - 서울 4개 지역 반려견 이름 데이터
+    - Tensorflow GPU 환경 구축 후, 모델 학습 진행
+    - Django
   * Spark
     - [Hyperparameter Tuning - Bayesian Oprimization](https://we-co.tistory.com/109)
     - [Pyspark Xgboost - Spark, MLlib Pipelines, 수요 예측](https://we-co.tistory.com/108)
@@ -29,7 +31,7 @@
     - MotionE
     - JPharm
 * [기타](#기타)
-    - Kaggle 분석 ( 타이타닉 )
+    - Kaggle 분석 ( 타이타닉, 집값 예측하기 )
     - tensorflow Object detection api model
     - YOLO 논문
     - Pands, Matplotlib
@@ -37,9 +39,11 @@
 <br>
 
 ## 경력
+[한국정보기술단](http://www.audit.co.kr/news/)
+* 2023.05 ~ [ 현재 ]
 
 [트라이업](https://triupcorp.com/)
-* 2022.04 ~ 현재  
+* 2022.04 ~ 2023.04  
 
 [비트컴퓨터](https://www.bit.kr/)
 * 2019.01 ~ 2021.05
@@ -110,6 +114,11 @@
 <br>
 
 ## 회사 프로젝트 
+<div>
+  <img width="10%" height = "40dp" alt="image" src="https://github.com/JGH94/Resume/assets/41178868/2fa822fc-b82a-4ddb-9bee-19b31e12c3af"> 
+</div> 
+ 
+
 <div>
 <img width="10%" height = "40dp" src="https://user-images.githubusercontent.com/41178868/207754942-7bc482a5-792d-4972-aea2-90ef9f593dbc.png"> 
 </div> 
