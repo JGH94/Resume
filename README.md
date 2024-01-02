@@ -103,10 +103,12 @@
 ### 판매 데이터를 분석하여 재고 추천 및 자동구매 
   약품 판매 데이터를 분석하여 현재 재고를 통해서 필요한 개수를 추천해 주고, 크롤링을 통해 자동구매 프로그램 
 <br>
+
 * 기간 : 2021.3 ~ 2021.12
 * 소속 : 개인
 * 역할 : C#, Python 개발
 * 사용기술 : C#, MSSQL, Python, Selenium
+  
 <div>          
 <img width="35%" height = "220dp" src="https://user-images.githubusercontent.com/41178868/207749957-4d61e3b9-16de-4147-abc6-87b1d0d4240d.png">
 <img width="35%" height = "220dp" src="https://user-images.githubusercontent.com/41178868/207749848-e54a73a6-4cd2-42d6-ad29-fdc723ecb827.png"> 
@@ -117,12 +119,17 @@
 <div>
   <img width="10%" height = "40dp" alt="image" src="https://github.com/JGH94/Resume/assets/41178868/2fa822fc-b82a-4ddb-9bee-19b31e12c3af"> 
 </div> 
-데이터 댐 사업(https://terms.naver.com/entry.naver?docId=6650837&cid=59277&categoryId=70124)의 데이터를 정확성, 다양성, 개인정보 비식별화 등  데이터가 개방되기 전 검사를 진행하는 솔루션입니다. 
+데이터 댐 사업의 데이터를 정확성, 다양성, 개인정보 비식별화 등  데이터가 개방되기 전 검사를 진행하는 솔루션입니다. 
 <br>
+
 * 기간 : 2023.05 ~ 개발 중
 * 소속 : 한국정보기술단
 * 역할 : Django 프레임워크 기반의 웹 개발
 * 사용기술 : Python, Ajax, Elasticsearch
+
+<div>       
+ <img width="40%" height = "240dp" src="https://user-images.githubusercontent.com/41178868/208034877-cc6d5523-c31f-4c54-983b-8523175db6b5.png">
+</div>
 <br>
 
 <div>
