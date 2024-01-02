@@ -133,19 +133,21 @@
 <br>
 
 <div>
-<img width="10%" height = "40dp" src="https://user-images.githubusercontent.com/41178868/207754942-7bc482a5-792d-4972-aea2-90ef9f593dbc.png"> 
+ <img width="10%" height = "40dp" src="https://user-images.githubusercontent.com/41178868/207754942-7bc482a5-792d-4972-aea2-90ef9f593dbc.png"> 
 </div> 
 병원 차트 프로그램으로 EMR, CRM 등 뷰티를 중점인 병원을 타겟인 프로그램
 <br>
+
 * 기간 : 2022.04 ~ 개발 중
 * 소속 : 트라이업
 * 역할 : C# 응용 SW 프로그램 개발, Web, Android 연동
 * 사용기술 : C#, Json, CefSharp
+  
 <div>      
-<img width="35%" height = "220dp" src="https://user-images.githubusercontent.com/41178868/207752093-029a38a6-f099-453d-a914-5b18ecc28774.png">
-<img width="35%" height = "220dp" src="https://user-images.githubusercontent.com/41178868/207752159-9cd75f51-46ca-4244-b237-6295706d8d68.png"> 
-<img width="35%" height = "220dp" src="https://user-images.githubusercontent.com/41178868/207752249-8cfe213a-b287-443a-a18a-5a77cf547d71.png">  
-<img width="35%" height = "220dp" src="https://user-images.githubusercontent.com/41178868/207752354-62f9162b-2f6c-49f7-863d-b31d8e91870b.png">  
+ <img width="35%" height = "220dp" src="https://user-images.githubusercontent.com/41178868/207752093-029a38a6-f099-453d-a914-5b18ecc28774.png">
+ <img width="35%" height = "220dp" src="https://user-images.githubusercontent.com/41178868/207752159-9cd75f51-46ca-4244-b237-6295706d8d68.png"> 
+ <img width="35%" height = "220dp" src="https://user-images.githubusercontent.com/41178868/207752249-8cfe213a-b287-443a-a18a-5a77cf547d71.png">  
+ <img width="35%" height = "220dp" src="https://user-images.githubusercontent.com/41178868/207752354-62f9162b-2f6c-49f7-863d-b31d8e91870b.png">  
 </div>
 <br>
 
