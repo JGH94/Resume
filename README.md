@@ -127,8 +127,8 @@
 * 역할 : Django 프레임워크 기반의 웹 개발
 * 사용기술 : Python, Ajax, Elasticsearch
 
-<div>       
- <img width="40%" height = "240dp" src="https://user-images.githubusercontent.com/41178868/208034877-cc6d5523-c31f-4c54-983b-8523175db6b5.png">
+<div>        
+ <img width="1309" alt="image" src="https://user-images.githubusercontent.com/41178868/208034877-cc6d5523-c31f-4c54-983b-8523175db6b5.png"> 
 </div>
 <br>
 
@@ -138,7 +138,7 @@
 병원 차트 프로그램으로 EMR, CRM 등 뷰티를 중점인 병원을 타겟인 프로그램
 <br>
 
-* 기간 : 2022.04 ~ 개발 중
+* 기간 : 2022.04 ~ 2023.04
 * 소속 : 트라이업
 * 역할 : C# 응용 SW 프로그램 개발, Web, Android 연동
 * 사용기술 : C#, Json, CefSharp
