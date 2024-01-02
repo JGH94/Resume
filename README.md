@@ -125,7 +125,7 @@
 * 소속 : 한국정보기술단
 * 역할 : Django 프레임워크 기반의 웹 개발
 * 사용기술 : Python, Ajax, Elasticsearch
- 
+ <br>
 
 <div>
 <img width="10%" height = "40dp" src="https://user-images.githubusercontent.com/41178868/207754942-7bc482a5-792d-4972-aea2-90ef9f593dbc.png"> 
