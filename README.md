@@ -129,6 +129,8 @@
 
 <div>        
  <img width="35%" height = "220dp" alt="image" src="https://github.com/JGH94/Resume/assets/41178868/31efd54c-a08e-465b-a1e5-c8cbfa82b1ed"> 
+ <img width="35%" height = "220dp" alt="image" src="https://github.com/JGH94/Resume/assets/41178868/eb884bb1-5314-4d42-b103-3bc47984196c">
+
 </div>
 <br>
 
