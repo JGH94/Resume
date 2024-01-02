@@ -117,6 +117,14 @@
 <div>
   <img width="10%" height = "40dp" alt="image" src="https://github.com/JGH94/Resume/assets/41178868/2fa822fc-b82a-4ddb-9bee-19b31e12c3af"> 
 </div> 
+</div> 
+데이터 댐 사업(https://terms.naver.com/entry.naver?docId=6650837&cid=59277&categoryId=70124)의 데이터를 정확성, 다양성, 개인정보 비식별화 등  데이터가 개방되기 전 검사를 진행하는 솔루션입니다. 
+<br>
+<br>
+* 기간 : 2023.05 ~ 개발 중
+* 소속 : 한국정보기술단
+* 역할 : Django 프레임워크 기반의 웹 개발
+* 사용기술 : Python, Ajax, Elasticsearch
  
 
 <div>
