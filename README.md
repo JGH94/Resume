@@ -90,8 +90,7 @@
 * 역할 : Python, 데이터 적용 및 시각화
 * 사용기술 : Python, Pandas, Numpy, Matplotlib
 <div>        
-<img width="35%" height = "220dp" src="https://user-images.githubusercontent.com/41178868/207748284-dfd6583b-a586-4929-ba59-3b0e7c9b891c.png">
-<img width="35%" height = "220dp" src="https://user-images.githubusercontent.com/41178868/207748312-1ddba31f-37cc-4783-84b7-b94253eafba3.png">
+<img width="35%" height = "220dp" src="https://user-images.githubusercontent.com/41178868/207748284-dfd6583b-a586-4929-ba59-3b0e7c9b891c.png"> 
   
 </div>
 <br>
