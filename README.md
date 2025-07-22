@@ -86,19 +86,6 @@
 </div>
 <br>
 
-### [서울 4개 지역 반려견 이름 데이터 ](https://github.com/JGH94/python_Pat_Name)
- 공공데이터 포털에서 제공되는 서울 4개 지역의 반려견 이름 데이터 분석
-<br>
-* 기간 : 2022.11 ~ 2022.11
-* 소속 : 개인
-* 역할 : Python, 데이터 적용 및 시각화
-* 사용기술 : Python, Pandas, Numpy, Matplotlib
-<div>        
-<img width="35%" height = "220dp" src="https://user-images.githubusercontent.com/41178868/207748284-dfd6583b-a586-4929-ba59-3b0e7c9b891c.png"> 
-  
-</div>
-<br>
-
 
 ### 판매 데이터를 분석하여 재고 추천 및 자동구매 
   약품 판매 데이터를 분석하여 현재 재고를 통해서 필요한 개수를 추천해 주고, 크롤링을 통해 자동구매 프로그램 
