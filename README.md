@@ -26,6 +26,9 @@
   * C#
     - 판매 데이터를 분석하여 재고 추천 및 자동구매
 * [회사 프로젝트](#회사-프로젝트)
+  * Python
+    - KS_AIus_DQ ( GS 인증 획득 )
+    - 사내 RAG 구현
   * C#
     - MotionE
     - JPharm
@@ -93,6 +96,8 @@
 * 기간 : 2021.3 ~ 2021.12
 * 소속 : 개인
 * 역할 : C#, Python 개발
+* 성과 :
+  - 자동사입 파이프 라인 구성, 인건비 절약
 * 사용기술 : C#, MSSQL, Python, Selenium
   
 <div>          
@@ -105,20 +110,52 @@
 <div>
   <img width="10%" height = "40dp" alt="image" src="https://github.com/JGH94/Resume/assets/41178868/2fa822fc-b82a-4ddb-9bee-19b31e12c3af"> 
 </div> 
-데이터 댐 사업의 데이터를 정확성, 다양성, 개인정보 비식별화 등  데이터가 개방되기 전 검사를 진행하는 솔루션입니다. 
+ 데이터 댐 사업의 데이터를 정확성, 다양성, 개인정보 비식별화 등  데이터가 개방되기 전 검사를 진행하는 솔루션
 <br>
 
 * 기간 : 2023.05 ~ 개발 중
 * 소속 : 한국정보기술단
-* 역할 : Django 프레임워크 기반의 웹 개발
-* 사용기술 : Python, Ajax, Elasticsearch
+* 역할 : Python 개발자
+  - GS 인증 획득
+  - 대용량 데이터 품질 점검 (정형, 비정형)
+  - ElasticSearch 구조 설계 진행, 기존 데이터 적재량 대비 3배 이상 증가
+  - 트래픽 모니터링을 위한 Kibana 연동 및 관리, 장애율 15% 감소
+  - Docker 환경 컨테이너 운영 및 관리 with Jenkins
+  - 이미지, 영상 객체인식 개인정보 검출 개발, 약 3만건 검출 
+
+* 사용기술 : Python, Django, Elasticsearch, Kibana, Docker, Jenkins
 
 <div>        
  <img width="35%" height = "220dp" alt="image" src="https://github.com/JGH94/Resume/assets/41178868/31efd54c-a08e-465b-a1e5-c8cbfa82b1ed"> 
  <img width="35%" height = "220dp" alt="image" src="https://github.com/JGH94/Resume/assets/41178868/eb884bb1-5314-4d42-b103-3bc47984196c">
 
 </div>
+
+
+
+<div>
+  <img width="10%" height = "40dp" alt="image" src="https://github.com/JGH94/Resume/assets/41178868/2fa822fc-b82a-4ddb-9bee-19b31e12c3af"> 
+</div> 
+사내 RAG 시스템 구현
+
+* 기간 : 2025.05 ~ 개발 중
+* 소속 : 한국정보기술단
+* 역할 : Python 개발자
+  - LangChain 파이프라인 설계 및 개발
+  - 문서 검색 및 인원관리 효율성 증가
+  - OpenAI 및 Langfuse 연동 관리
+
+* 사용기술 : Python, React, LangChain, OpenAI
+
+<div>        
+ <img width="50%" height="300dp" alt="image" src="https://github.com/user-attachments/assets/08f1a395-0cf8-4593-9cdc-c0b511b7f296" /> 
+</div>
+
 <br>
+
+
+
+
 
 <div>
  <img width="10%" height = "40dp" src="https://user-images.githubusercontent.com/41178868/207754942-7bc482a5-792d-4972-aea2-90ef9f593dbc.png"> 
