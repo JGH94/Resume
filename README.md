@@ -1,4 +1,4 @@
-#  분석하고 성장하는 개발자 정근화 입니다.
+#  분석하고 성장하는 개발자 정근화
 
 ### 정근화
 
@@ -20,7 +20,6 @@
     - SSA에서 제공하는 이름 데이터 분석
     - Bit.ly와 USA.gov의 사용자 정보 분석
     - Tensorflow GPU 환경 구축 후, 모델 학습 진행
-    - Django
   * Spark
     - [Hyperparameter Tuning - Bayesian Oprimization](https://we-co.tistory.com/109)
     - [Pyspark Xgboost - Spark, MLlib Pipelines, 수요 예측](https://we-co.tistory.com/108)
