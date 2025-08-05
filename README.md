@@ -202,4 +202,3 @@
 * [프로그래머스](https://github.com/JGH94/programers_code),  [백준](https://github.com/JGH94/BaekJoon_Code)
 
 
-[ 자세한 이력서 ] (http://naver.me/5i0T70Xv)
