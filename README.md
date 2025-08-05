@@ -56,7 +56,7 @@
 # 프로젝트
 ## 개인-프로젝트
 
-### 약품판매 데이터분석 제고 자동사입 
+### 약품판매 데이터분석 재고 자동사입 
  실제판매 데이터를 분석하여 추천 개수를 설정하여, 크롤링을 통하여 자동사입 프로그랩 개발
 <br>
 * 기간 : 2021.05 ~ 2022.04
@@ -68,7 +68,9 @@
   - Seleninum을 사용하여 웹 기반 제품 쇼핑몰 자동 주문 구현
   - C# GUI로 관리자 화면을 제공하여 재고 확인, 구매 기준 설정, 이력 조회 기능 구현
 * 사용기술 : Python, C#, Seleninum
-<div>    
+<div>          
+<img width="35%" height = "220dp" src="https://user-images.githubusercontent.com/41178868/207749957-4d61e3b9-16de-4147-abc6-87b1d0d4240d.png">
+<img width="35%" height = "220dp" src="https://user-images.githubusercontent.com/41178868/207749848-e54a73a6-4cd2-42d6-ad29-fdc723ecb827.png"> 
 </div>
 <br>
 
@@ -105,24 +107,7 @@
   
 </div>
 <br>
-
-
-### 판매 데이터를 분석하여 재고 추천 및 자동구매 
-  약품 판매 데이터를 분석하여 현재 재고를 통해서 필요한 개수를 추천해 주고, 크롤링을 통해 자동구매 프로그램 
-<br>
-
-* 기간 : 2021.3 ~ 2021.12
-* 소속 : 개인
-* 역할 : C#, Python 개발
-* 성과 :
-  - 자동사입 파이프 라인 구성, 인건비 절약
-* 사용기술 : C#, MSSQL, Python, Selenium
-  
-<div>          
-<img width="35%" height = "220dp" src="https://user-images.githubusercontent.com/41178868/207749957-4d61e3b9-16de-4147-abc6-87b1d0d4240d.png">
-<img width="35%" height = "220dp" src="https://user-images.githubusercontent.com/41178868/207749848-e54a73a6-4cd2-42d6-ad29-fdc723ecb827.png"> 
-</div>
-<br>
+ 
 
 ## 회사 프로젝트 
 <div>
