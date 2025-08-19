@@ -32,6 +32,7 @@
   * C#
     - MotionE
     - JPharm
+
 * [기타](#기타)
     - Kaggle 분석 ( 타이타닉, 집값 예측하기 )
     - tensorflow Object detection api model
@@ -70,9 +71,11 @@
 * 사용기술 : Python, C#, Seleninum
 <div>          
 <img width="35%" height = "220dp" src="https://user-images.githubusercontent.com/41178868/207749957-4d61e3b9-16de-4147-abc6-87b1d0d4240d.png">
-<img width="35%" height = "220dp" src="https://user-images.githubusercontent.com/41178868/207749848-e54a73a6-4cd2-42d6-ad29-fdc723ecb827.png"> 
-</div>
+<img width="35%" height = "220dp" src="https://user-images.githubusercontent.com/41178868/207749848-e54a73a6-4cd2-42d6-ad29-fdc723ecb827.png">  
+</div> 
 <br>
+
+---
 
 
 ## 개인 프로젝트 및 작업 ( Python, C# )
@@ -93,6 +96,7 @@
 </div>
 <br>
 
+---
 
 ### [Bit.ly와 USA.gov의 사용자 정보 분석 ](https://github.com/JGH94/Python_BIT_USA)
  https://www.ssa.gov/ Bit.ly와 USA.gov에서 사용된 사용자들의 정보의 데이터를 분석하고 시각화
@@ -107,7 +111,8 @@
   
 </div>
 <br>
- 
+
+---
 
 ## 회사 프로젝트 
 <div>
@@ -134,7 +139,7 @@
 
 </div>
 
-
+---
 
 <div>
   <img width="10%" height = "40dp" alt="image" src="https://github.com/JGH94/Resume/assets/41178868/2fa822fc-b82a-4ddb-9bee-19b31e12c3af"> 
@@ -156,7 +161,7 @@
 
 <br>
 
-
+---
 
 
 
@@ -179,6 +184,7 @@
 </div>
 <br>
 
+---
 
 <div>  
 <img width="10%" height = "40dp" src="https://user-images.githubusercontent.com/41178868/208035086-a74754bd-614a-4b6e-9f25-542683dd99ff.png"> 
@@ -196,6 +202,7 @@
 </div>
 <br>
 
+---
 
 ## 기타
 * [Kaggle 분석 ( 타이타닉 )](https://github.com/JGH94/Kaggle_Titanic)
