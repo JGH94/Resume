@@ -1,5 +1,3 @@
-# 데이터 품질점검 담당자
-
 ### 정근화
 
 - BLOG : https://we-co.tistory.com/
